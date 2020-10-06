@@ -1,13 +1,13 @@
-### Hi there, I'm [Anurag!](https://filipe-machado.github.io) 👋
+### Hi there, I'm [Filipe!](https://filipe-machado.github.io) 👋
 
 <a href="https://codesandbox.io/u/filipe-machado">
   <img align="left" alt="Filipe Machado | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/go_horser">
   <img align="left" alt="Filipe Machado | Twitter" width="21px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/discord-round.svg" />
+  <img align="left" alt="Filipe's Discord" width="21px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -39,7 +39,7 @@ Hi, I'm Filipe Machado, a passionate self-taught frontEnd web developer from Ind
 
 
 <a href="https://github.com/filipe-machado/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.filipe-machado1.vercel.app/api?username=filipe-machado&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.filipe-machado1.vercel.app/api?username=filipe-machado&show_icons=true&include_all_commits=true&theme=radical" alt="Filipe's github stats" />
 </a>
 <a href="https://github.com/filipe-machado/github-readme-stats">
   <!-- Change the `github-readme-stats.filipe-machado1.vercel.app` to `github-readme-stats.vercel.app`  -->
