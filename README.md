@@ -1,7 +1,7 @@
 ### Hi there, I'm [Filipe!](https://filipe-machado.github.io) 👋
 
-<a href="https://codesandbox.io/u/filipe-machado">
-  <img align="left" alt="Filipe Machado | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/codesandbox.svg" />
+<a href="https://www.linkedin.com/in/axfilipe/">
+  <img align="left" alt="Filipe Machado | LinkedIn" width="20px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/linkedin.png" />
 </a>
 <a href="https://twitter.com/go_horser">
   <img align="left" alt="Filipe Machado | Twitter" width="21px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/twitter.svg" />
