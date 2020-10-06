@@ -23,7 +23,17 @@
 
 **Databases:**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+**Tools:**  
+
+<!--  https://open.spotify.com/user/axfilipe777 -->
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AVisual_Studio_Code_1.18_icon.svg&psig=AOvVaw3MiOVpnqmQxx1qraIswf1y&ust=1602105280695000&source=images&cd=vfe&ved=2ahUKEwiE3Lqy8aDsAhXkAdQKHVVbBocQjRx6BAgAEAc"></code>
 
 <a href="https://github.com/filipe-machado">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipe-machado&show_icons=true&include_all_commits=true&theme=monokai" alt="Filipe's github stats" />
