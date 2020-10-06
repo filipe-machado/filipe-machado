@@ -13,12 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Filipe Machado, a passionate self-taught frontEnd web developer from India.
-
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/filipe-machado/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/filipe-machado/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/filipe-machado/filipe-machado/issues)
+- 🔭 I’m currently working on [Squads](https://github.com/squads-fabrica-software)
 
 **Languages and Tools:**  
 
