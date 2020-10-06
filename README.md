@@ -1,12 +1,12 @@
 ### Hi, I'm [Filipe!](https://filipe-machado.github.io) 👋
 
-<a target="_blank" href="https://open.spotify.com/user/axfilipe777">
+<a href="https://open.spotify.com/user/axfilipe777">
   <img align="left" alt="Filipe Machado | Spotify" width="20px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/spotify.png" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/axfilipe/">
+<a href="https://www.linkedin.com/in/axfilipe/">
   <img align="left" alt="Filipe Machado | LinkedIn" width="20px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/linkedin.png" />
 </a>
-<a target="_blank" href="https://twitter.com/go_horser">
+<a href="https://twitter.com/go_horser">
   <img align="left" alt="Filipe Machado | Twitter" width="21px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/twitter.svg" />
 </a>
 
@@ -38,10 +38,10 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/vscode.png"></code>
 
-<a target="_blank" href="https://github.com/filipe-machado">
+<a href="https://github.com/filipe-machado">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipe-machado&show_icons=true&include_all_commits=true&theme=monokai" alt="Filipe's github stats" />
 </a>
 <br />
-<a target="_blank" href="https://github.com/filipe-machado">
+<a href="https://github.com/filipe-machado">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-machado&layout=compact&theme=monokai" />
 </a>
