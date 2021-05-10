@@ -13,7 +13,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [Squads](https://github.com/squads-fabrica-software)
+- 🔭 I’m currently working on [Goclin](https://goclin.com/)
 
 **Languages and Tools:**  
 
