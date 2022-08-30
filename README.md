@@ -1,8 +1,5 @@
 ### Hi, I'm [Filipe!](https://filipe-machado.github.io) 👋
 
-<div style="display: flex; gap: 20px;">
-
-<div>
 
 <a href="https://open.spotify.com/user/axfilipe777">
   <img align="left" alt="Filipe Machado | Spotify" width="20px" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/spotify.png" />
@@ -50,10 +47,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-machado&layout=compact&theme=monokai" />
 </a>
 
-</div>
+</br>
+</br>
 
-<div>
-  <a href="https://app.daily.dev/filipe_machado"><img src="https://api.daily.dev/devcards/c2725f3df2f748a8a12bf9f4d65038d7.png?r=1ib" width="400" alt="Filipe Machado's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/filipe_machado"><img src="https://api.daily.dev/devcards/c2725f3df2f748a8a12bf9f4d65038d7.png?r=1ib" width="400" alt="Filipe Machado's Dev Card"/></a>
 
-</div>
