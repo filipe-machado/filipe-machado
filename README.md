@@ -1,6 +1,6 @@
 ### Hi, I'm [Filipe!](https://filipe-machado.github.io) 👋
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; gap: 20px;">
 
 <div width="50%">
 
