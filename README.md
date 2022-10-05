@@ -39,15 +39,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/filipe-machado/filipe-machado/main/assets/vscode.png"></code>
 
-<a href="https://github.com/filipe-machado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipe-machado&show_icons=true&include_all_commits=true&theme=monokai" alt="Filipe's github stats" />
-</a>
-<br />
-<br />
-<a href="https://github.com/filipe-machado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-machado&layout=compact&theme=monokai" />
-</a>
-
 </br>
 </br>
 
