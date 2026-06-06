@@ -14,7 +14,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [Simworx](https://www.simworx.com.br/)
+- 🔭 I’m currently working on [DBC Company](https://www.dbccompany.com.br/)
 
 **Languages and Tools:**  
 
